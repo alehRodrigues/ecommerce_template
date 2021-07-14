@@ -17,7 +17,13 @@ module.exports = {
         open:{
             app:['google-chrome-stable', '--incognito'],
         },
-        contentBase: './dist',
+        static:[
+            {
+                directory: path.resolve(__dirname, './src'),
+                serveIndex:true,
+                watch: true,
+            }
+        ]
     },
     entry: './src/js/index.js',
     output:{
