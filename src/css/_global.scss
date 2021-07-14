@@ -1,0 +1,10 @@
+@use 'variables';
+div{
+    display:flex;
+    background-color:variables.$bg-color;
+}
+.back{
+    width:500px;
+    height:500px;
+    background: url('../assets/logo-ecommerce.svg');
+}
