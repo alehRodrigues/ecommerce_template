@@ -10,14 +10,57 @@
 
         <!-- Compiled and minified JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <title>Document</title>
     </head>
 
     <body>
-        <div>
-            <h1>tste</h1>
-            <div class="back"></div>
+        <!--Logo-->
+        <div class="logo-container">
+            <img class="logo hide-on-med-and-down" src="./assets/logo-ecommerce.svg" alt="AnnaBelle-Logo">
+            <img class="logo hide-on-small-only hide-on-extra-large-only hide-on-large-only"
+                src="./assets/logo-ecommerce-device.svg" alt="AnnaBelle-Logo">
+            <img class="logo hide-on-med-and-up" src="./assets/logo-ecommerce-mobile.svg" alt="AnnaBelle-Logo">
         </div>
+        <!--Menu Mobile-->
+        <div class="menuMobile">
+            <ul>
+                <li>
+                    <div class="searchBox input-field" id="searchBox">
+                        <i class="material-icons prefix" id="searchBtn">search</i>
+                        <input id="searchInput" type="text" class="searchInput">
+                    </div>
+                </li>
+                <li>
+                    <div class="input-field loginBox" id="loginBox">
+                        <i class="material-icons login-icon" id="loginBtn">account_circle</i>
+
+                        <form action="" id="signInForm" class="signin-mobile">
+                            <div class="input-field">
+                                <i class="material-icons prefix">email</i>
+                                <input type="text" id="loginEmail">
+                                <label for="loginEmail">Your best email</label>
+                            </div>
+                            <div class="input-field">
+                                <i class="material-icons prefix">lock</i>
+                                <input type="password" id="loginPassword">
+                                <label for="loginPassword">NÃO COLOQUE SUA SENHA</label>
+                            </div>
+                            <button id="btnSignIn" class="btn waves-effect waves-light" type="submit">Login</button>
+                        </form>
+                    </div>
+                </li>
+                <li>
+                    <div class="searchBox input-field">
+                        <i id="cartIcon" class="material-icons prefix">shopping_cart</i>
+                        <input type="text" class="searchInput">
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+        <!--         <div style="width: 100%; height:200px; background-color:green"></div>
+ -->
     </body>
 
 </html>

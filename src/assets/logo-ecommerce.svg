@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="60.713818mm"
+   height="27.366859mm"
+   viewBox="0 0 60.713818 27.366859"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
@@ -23,50 +23,48 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.0075196"
-     inkscape:cx="210.30619"
-     inkscape:cy="285.11867"
+     inkscape:zoom="4.253275"
+     inkscape:cx="91.458934"
+     inkscape:cy="48.785935"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#fff8fd;fill-opacity:1;stroke:#23190e;stroke-width:0.237"
-       id="rect47144"
-       width="102.55296"
-       height="47.847584"
-       x="21.234255"
-       y="59.194962" />
+     id="layer1"
+     transform="translate(-39.952644,-70.114116)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#23190e;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.061745"
+       x="53.346817"
        y="79.110954"
        id="text5511"><tspan
          sodipodi:role="line"
          id="tspan5509"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Jellyka BeesAntique Handwriting';-inkscape-font-specification:'Jellyka BeesAntique Handwriting';fill:#23190e;fill-opacity:1;stroke-width:0.264583"
-         x="50.061745"
+         x="53.346817"
          y="79.110954">Anna Belle</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.9588px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;stroke-width:0.273972;fill:#23190e;fill-opacity:1"
-       x="39.831005"
+       style="font-size:10.9588px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;fill:#23190e;fill-opacity:1;stroke-width:0.273972"
+       x="40.289803"
        y="89.614464"
        id="text31273"
        transform="scale(0.9657315,1.0354845)"><tspan
          sodipodi:role="line"
          id="tspan31271"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Mrs Saint Delafield';-inkscape-font-specification:'Mrs Saint Delafield';stroke-width:0.273972;fill:#23190e;fill-opacity:1"
-         x="39.831005"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Mrs Saint Delafield';-inkscape-font-specification:'Mrs Saint Delafield';fill:#23190e;fill-opacity:1;stroke-width:0.273972"
+         x="40.289803"
          y="89.614464">'cause you're all dolls</tspan></text>
     <path
        style="fill:#23190e;fill-opacity:1;stroke:#23190e;stroke-width:0.241287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -74,27 +72,38 @@
        id="path3965" />
     <text
        xml:space="preserve"
-       style="font-size:6.65033px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;stroke-width:0.166259;fill:#23190e;fill-opacity:1"
+       style="font-size:6.65033px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;fill:#23190e;fill-opacity:1;stroke-width:0.166259"
        x="73.262932"
        y="98.499908"
        id="text2417"
        transform="rotate(-13.063981)"><tspan
          sodipodi:role="line"
          id="tspan2415"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kaileen;-inkscape-font-specification:Kaileen;stroke-width:0.166259;fill:#23190e;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kaileen;-inkscape-font-specification:Kaileen;fill:#23190e;fill-opacity:1;stroke-width:0.166259"
          x="73.262932"
          y="98.499908">K </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.97391px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;stroke-width:0.174348;fill:#23190e;fill-opacity:1"
+       style="font-size:6.97391px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;fill:#23190e;fill-opacity:1;stroke-width:0.174348"
        x="42.927666"
        y="83.852364"
        id="text35015"><tspan
          sodipodi:role="line"
          id="tspan35013"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kaileen;-inkscape-font-specification:Kaileen;stroke-width:0.174348;fill:#23190e;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kaileen;-inkscape-font-specification:Kaileen;fill:#23190e;fill-opacity:1;stroke-width:0.174348"
          x="42.927666"
          y="83.852364">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.17864px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;fill:#23190e;fill-opacity:1;stroke-width:0.104467"
+       x="61.769108"
+       y="83.331474"
+       id="text58241"><tspan
+         sodipodi:role="line"
+         id="tspan58239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Jellyka BeesAntique Handwriting';-inkscape-font-specification:'Jellyka BeesAntique Handwriting';fill:#23190e;fill-opacity:1;stroke-width:0.104467"
+         x="61.769108"
+         y="83.331474">nail polish store</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;stroke-width:0.264583"
@@ -106,16 +115,5 @@
          style="stroke-width:0.264583"
          x="34.442112"
          y="46.177238" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.79581px;line-height:1.25;font-family:Miama;-inkscape-font-specification:Miama;fill:#23190e;fill-opacity:1;stroke-width:0.0698956"
-       x="63.631302"
-       y="82.313255"
-       id="text58241"><tspan
-         sodipodi:role="line"
-         id="tspan58239"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Jellyka BeesAntique Handwriting';-inkscape-font-specification:'Jellyka BeesAntique Handwriting';fill:#23190e;fill-opacity:1;stroke-width:0.0698956"
-         x="63.631302"
-         y="82.313255">nail polish store</tspan></text>
   </g>
 </svg>

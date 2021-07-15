@@ -1,10 +1,40 @@
 @use 'variables';
-div{
-    display:flex;
-    background-color:variables.$bg-color;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.back{
-    width:500px;
-    height:500px;
-    background: url('../assets/logo-ecommerce.svg');
+
+body{
+    background-color: variables.$bg-color;
+
 }
+
+/* label color */
+   .input-field label {
+     color: variables.$dark-color!important;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: variables.$dark-color!important;
+   }
+   /* label underline focus color */
+   .input-field input:focus {
+     border-bottom: 1px solid variables.$dark-color!important;
+     box-shadow: 0 1px 0 0 variables.$dark-color!important;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid variables.$dark-color!important;
+     box-shadow: 0 1px 0 0 variables.$dark-color!important;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid variables.$red-color!important;
+     box-shadow: 0 1px 0 0 variables.$dark-color!important;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: variables.$dark-color!important;
+   }
