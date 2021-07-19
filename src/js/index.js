@@ -322,6 +322,25 @@ blackButton.addEventListener('click',()=>{
     const userName = document.getElementById('userName');
     const userEmail = document.getElementById('userEmail');
 
+    const normalPrices = document.getElementsByClassName('normalPrice');
+    const blackPrices = document.getElementsByClassName('blackPrice');
+
+    for(let i = 0; i < normalPrices.length; i++){
+
+        normalPrices[i].style.textDecoration = 'line-through';
+        let price = normalPrices[i].innerHTML;
+        console.log(price);
+        price = price.match(/\d{1,2}/g);
+        price = price.map((value)=>{ return Number(value)/2});
+        blackPrices[i].innerHTML = `$${Math.floor(price[0])}<span>${Math.floor(price[1])}</span>`;
+        blackPrices[i].style.color = 'red';
+        blackPrices[i].children[0].style.color = 'red';
+
+    }
+
+
+
+
     console.log(userName.value);
     console.log(userEmail.value);
 
