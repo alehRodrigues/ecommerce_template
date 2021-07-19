@@ -53,6 +53,10 @@ module.exports = {
                         presets: ['@babel/preset-env']
                     }
                 }
+            },
+            {
+                test: /\.(woff|woff2|eot|ttf|otf)$/i,
+                type: 'asset/resource',
             }
         ]
     },
@@ -65,5 +69,8 @@ module.exports = {
             filename:'bundle.css'
         }),
         new CleanWebpackPlugin()
-    ]
+    ],
+    experiments: {
+        topLevelAwait: true,
+    }
 }
