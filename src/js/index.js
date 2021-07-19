@@ -141,7 +141,6 @@ window.addEventListener('scroll',()=>{
 
 })
 
-let device = '';
 window.addEventListener('resize',()=>{
 
     if(window.innerWidth < 600){
@@ -152,6 +151,11 @@ window.addEventListener('resize',()=>{
     if(window.innerWidth > 600 && window.innerWidth < 992){
         document.getElementById('home').style.position = 'absolute';
         document.getElementById('home').style.top = '150px';
+    }
+
+    if(window.innerWidth > 992){
+        document.getElementById('home').style.position = 'absolute';
+        document.getElementById('home').style.top = '220px';
     }
 
     window.scrollTo(0,0);
