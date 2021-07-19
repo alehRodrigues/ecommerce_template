@@ -2,6 +2,7 @@ import '../css/index.scss';
 import {p, getProducts} from './products.js';
 
 import {hexToCSSFilter} from 'hex-to-css-filter';
+import html from '../index.html';
 
 
 //Search Mobile Input
